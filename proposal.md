@@ -1,5 +1,5 @@
 # CS 225 Final Project Proposal
-Erik Ji | David Ho | Ariocie Liang  
+Erik Ji | David Ho
 March 24, 2022, Revision 1.0  
 
 ## Leading Question
