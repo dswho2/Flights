@@ -1,5 +1,4 @@
-# dsho2-arliang2-erikrj2
-Team name: dea
+# Flights
 
 What is the difference between flight paths in comfort (number of stops) vs cost when flying from one airport to another in the U.S.?
 
