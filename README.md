@@ -6,7 +6,7 @@ What is the difference between flight paths in comfort (number of stops) vs cost
 
 ## Github Organization
 
-All major code files and parsed data are in the src folder. The raw data is in the Raw Data folder. The progress reports are in the WeeklyReports folder. The presentation video is in the main.
+All major code files and parsed data are in the src folder. The raw data is in the Raw Data folder. The progress reports are in the WeeklyReports folder.
 
 ## Usage
 
