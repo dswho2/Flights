@@ -1,6 +1,6 @@
 # Flights
 
-Final Project for CS 225: Data Structures. Made by David Ho and Erik Ji
+Final Project for CS 225: Data Structures. Data from https://www.transtats.bts.gov/AverageFare/. Made by David Ho and Erik Ji
 
 What is the difference between flight paths in comfort (number of stops) vs cost when flying from one airport to another in the U.S.?
 
